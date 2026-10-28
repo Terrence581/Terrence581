@@ -16,7 +16,7 @@ I'm pursuing an **MS in Operations Research at Columbia University in NYC**. I'm
 
 My public work spans **A-share factor research**, **bandit policies**, and **architecture designs for LLM-assisted factor discovery**.
 
-## Work in Progress
+## Work
 
 ### 01 / Quantitative Research
 
@@ -24,7 +24,6 @@ My public work spans **A-share factor research**, **bandit policies**, and **arc
 
 Cross-sectional momentum, trend strategies, QTrend20, and financial growth factors. Includes portfolio backtests, IC / RankIC analysis, and diagnostic plots.
 
-`Python` `Factor Research` `Backtesting`
 
 **[Explore the research →](https://github.com/Terrence581/Quant-research)**
 
@@ -34,7 +33,6 @@ Cross-sectional momentum, trend strategies, QTrend20, and financial growth facto
 
 Two- and three-state Whittle index implementations, myopic and finite-horizon policies, and simulation notebooks for policy comparison.
 
-`Python` `Jupyter` `Bandit Policies`
 
 **[Explore the experiments →](https://github.com/Terrence581/Reinforcement-Learning)**
 
