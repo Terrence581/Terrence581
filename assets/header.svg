@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+<title id="title">Haixin Shen | Operations Research</title>
+<desc id="desc">Quantitative research, reinforcement learning, and LLM agents. Navy banner with teal research curves and a decision graph.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1425"/><stop offset="1" stop-color="#102d3b"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#7dd3fc" stroke-opacity=".06"/></pattern>
+<clipPath id="clip"><rect width="1280" height="340" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="1280" height="340" fill="url(#bg)"/><rect width="1280" height="340" fill="url(#grid)"/>
+<path d="M830 270H1210M830 75V270" fill="none" stroke="#94a3b8" stroke-opacity=".18"/>
+<path d="M830 246L855 239L880 249L905 216L930 225L955 195L980 209L1005 160L1030 179L1055 135L1080 148L1105 117L1130 136L1155 90L1180 106L1210 71" fill="none" stroke="#5eead4" stroke-opacity=".8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M830 258C885 252 902 244 938 241S997 216 1030 209S1090 197 1120 173S1174 164 1210 138" fill="none" stroke="#60a5fa" stroke-opacity=".6" stroke-width="2" stroke-dasharray="5 7"/>
+<g fill="none" stroke="#94a3b8" stroke-opacity=".25"><path d="M955 70L1037 43L1110 71L1190 33M1037 43L1047 99L1110 71"/><circle cx="955" cy="70" r="5"/><circle cx="1037" cy="43" r="5"/><circle cx="1110" cy="71" r="5"/><circle cx="1190" cy="33" r="5"/><circle cx="1047" cy="99" r="5"/></g>
+<circle cx="1210" cy="71" r="5" fill="#5eead4"/>
+<rect x="56" y="51" width="30" height="3" rx="1.5" fill="#5eead4"/>
+<text x="100" y="58" fill="#8cd5d0" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="3">OPERATIONS RESEARCH / COLUMBIA UNIVERSITY</text>
+<text x="54" y="151" fill="#f1f5f9" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700" letter-spacing="-2">Haixin Shen.</text>
+<text x="58" y="196" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="23">Exploring markets. Modeling decisions.</text>
+<g font-family="Arial, Helvetica, sans-serif" font-size="13">
+<rect x="57" y="239" width="174" height="34" rx="17" fill="#122b3c" stroke="#244659"/><text x="144" y="261" text-anchor="middle" fill="#b5c9dc">Quantitative Research</text>
+<rect x="242" y="239" width="179" height="34" rx="17" fill="#122b3c" stroke="#244659"/><text x="331.5" y="261" text-anchor="middle" fill="#b5c9dc">Reinforcement Learning</text>
+<rect x="432" y="239" width="110" height="34" rx="17" fill="#123738" stroke="#24605a"/><text x="487" y="261" text-anchor="middle" fill="#91e5d5">LLM Agents</text>
+</g>
+<text x="830" y="303" fill="#7295a7" font-family="monospace" font-size="10" letter-spacing="1.2">IDEA → IMPLEMENTATION → EVALUATION</text>
+<rect y="334" width="1280" height="6" fill="#2dd4bf" opacity=".65"/>
+</g></svg>
