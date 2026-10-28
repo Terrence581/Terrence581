@@ -12,7 +12,7 @@
 
 ## Hi, I'm Haixin 👋
 
-I'm pursuing an **MS in Operations Research at Columbia University in NYC**. I explore quantitative investing and sequential decision-making through Python implementations and experiments.
+I'm pursuing an **MS in Operations Research at Columbia University in NYC**. I'm interested in understanding the underlying problems and fundamental principles that data reveal, and in applying theory to the real world.
 
 My public work spans **A-share factor research**, **bandit policies**, and **architecture designs for LLM-assisted factor discovery**.
 
