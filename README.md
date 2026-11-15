@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Haixin Shen — Operations Research at Columbia University; Quantitative Research, Reinforcement Learning, and LLM Agents" width="100%" />
+  <img src="assets/header.svg" alt="Terrence — Quantitative Research, Reinforcement Learning, and LLM Agents" width="100%" />
 </p>
 
 <p align="center">
@@ -10,9 +10,9 @@
   <a href="https://github.com/Terrence581/Quant-research/tree/main/LLM%20Agent%E6%9E%B6%E6%9E%84"><b>LLM Agents</b></a>
 </p>
 
-## Hi, I'm Haixin 👋
+## Hi, I'm Terrence 👋
 
-I'm pursuing an **MS in Operations Research at Columbia University in NYC**. I'm interested in understanding the underlying problems and fundamental principles that data reveal, and in applying theory to the real world.
+I'm interested in understanding the underlying problems and fundamental principles that data reveal, and in applying theory to the real world.
 
 My public work spans **A-share factor research**, **bandit policies**, and **architecture designs for LLM-assisted factor discovery**.
 
