@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Terrence — Quantitative Research, Reinforcement Learning, and LLM Agents" width="100%" />
-</p>
-
-<p align="center">
   <a href="https://github.com/Terrence581/Quant-research"><b>Quant Research</b></a>
   &nbsp; · &nbsp;
   <a href="https://github.com/Terrence581/Reinforcement-Learning"><b>Reinforcement Learning</b></a>
