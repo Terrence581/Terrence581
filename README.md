@@ -1,11 +1,3 @@
-<p align="center">
-  <a href="https://github.com/Terrence581/Quant-research"><b>Quant Research</b></a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/Terrence581/Reinforcement-Learning"><b>Reinforcement Learning</b></a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/Terrence581/Quant-research/tree/main/LLM%20Agent%E6%9E%B6%E6%9E%84"><b>LLM Agents</b></a>
-</p>
-
 ## Hi, I'm Terrence 👋
 
 I'm interested in understanding the underlying problems and fundamental principles that data reveal, and in applying theory to the real world.
